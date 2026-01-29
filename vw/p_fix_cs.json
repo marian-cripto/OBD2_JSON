@@ -1,8 +1,5 @@
 {
-  "P0420": " 
-    Resetování OBD2 diagnostického skeneru. Je to obecná metoda, která je povolena v případě, že se objeví tento diagnostický chybový kód vlivem selhání v jiných systémech nebo komponentech, a tento úkon lze provést pouze po obnovení jejich funkčnosti.
-    Vyčištění. Toto lze provést v případě mírného zašpinění, a zahrnuje to vlití speciálních aditiv do palivové nádrže.
-    Výměna katalyzátoru, a podle potřeby i výměna senzorů a vodičů. Toto je nejdražší a nejúčinnější způsob, jak opravit poškození komponentu.
-",
+  "P0420": "Resetování OBD2 diagnostického skeneru. Je to obecná metoda, která je povolena v případě, že se objeví tento diagnostický chybový kód vlivem selhán",
   "P0300": "Zkontrolovat zapalování, svícky, cívky a tlak paliva"
 }
+
