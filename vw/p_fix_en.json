@@ -1,5 +1,7 @@
 {
-  "P0420": "Vymenit nebo vycistit katalyz�tor a lambda sondy",
-  "P0300": "Zkontrolovat zapalov�n�, sv�cky, c�vky a tlak paliva"
+  "P0420": "indikuje, že katalyzátor nepracuje účinně, a obvykle i to, že je nutné ho vyměnit",
+  "P0171": "indikuje, že směs paliva a vzduchu je příliš chudá",
+  "P0300": "indikuje vynechávání jednoho nebo více válců motoru"
 }
+
 
