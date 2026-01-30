@@ -1,5 +1,6 @@
 {
-  "P0420": "Resetování OBD2 diagnostického skeneru. Je to obecná metoda, která je povolena v případě, že se objeví tento diagnostický chybový kód vlivem selhán",
+  "P0420": "Resetování OBD2 diagnostického skeneru. Je to obecná metoda, která je povolena",
   "P0300": "Zkontrolovat zapalování, svícky, cívky a tlak paliva"
 }
+
 
