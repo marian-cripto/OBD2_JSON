@@ -1,3 +1,6 @@
 ﻿{
-  "P0171": "VW: Chudá směs – motor"
+  "P0420": "indikuje, že katalyzátor nepracuje účinně, a obvykle i to, že je nutné ho vyměnit",
+  "P0171": "indikuje, že směs paliva a vzduchu je příliš chudá",
+  "P0300": "indikuje vynechávání jednoho nebo více válců motoru"
 }
+
